@@ -96,6 +96,7 @@ body {
 
 /*Imagem a ser alterada*/
 .main-content-image {
+    margin-top: 48px;
     height: 430px;
     /* display: flex; */
     /* justify-content: flex-end; */
