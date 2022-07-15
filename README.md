@@ -1,3 +1,3 @@
 # My Landing Page
-Landing page com HTML e CSS.  
-Hospedada em: https://anycarolinys.github.io/landing-page/  
+Landing page powered by HTML and CSS.  
+Hosted at: https://anycarolinys.github.io/landing-page/  
